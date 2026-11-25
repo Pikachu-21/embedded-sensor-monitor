@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/logger_test.dir/tests/test_logger.cpp.o -o logger_test  libsensor.a 

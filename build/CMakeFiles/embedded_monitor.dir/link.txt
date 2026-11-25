@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/embedded_monitor.dir/src/main.cpp.o -o embedded_monitor  libsensor.a 

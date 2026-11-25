@@ -1,0 +1,8 @@
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/sensor.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/sensor_test.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/embedded_monitor.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/controller_test.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/logger_test.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/test.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/edit_cache.dir
+/workspaces/embedded-sensor-monitor/build/CMakeFiles/rebuild_cache.dir
