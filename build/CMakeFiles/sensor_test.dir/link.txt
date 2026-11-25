@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/sensor_test.dir/tests/test_sensor.cpp.o -o sensor_test  libsensor.a 

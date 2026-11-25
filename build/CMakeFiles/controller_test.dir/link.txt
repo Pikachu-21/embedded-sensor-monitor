@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/controller_test.dir/tests/test_controller.cpp.o -o controller_test  libsensor.a 
